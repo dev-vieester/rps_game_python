@@ -1,7 +1,6 @@
-
 ---
 
-✊ Rock Paper Scissors – Python CLI Game
+# ✊ Rock Paper Scissors – Python CLI Game
 
 A command-line implementation of the classic Rock Paper Scissors game built with Python.
 
@@ -9,7 +8,7 @@ This project demonstrates modular design, closures, state management, and CLI ar
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 * 👤 Personalized player name via CLI argument
 * 🎮 Interactive command-line gameplay
@@ -22,7 +21,7 @@ This project demonstrates modular design, closures, state management, and CLI ar
 
 ---
 
-🧠 How It Works
+## 🧠 How It Works
 
 The main `rps()` function initializes game state:
 
@@ -43,16 +42,16 @@ rock_paper_scissors()
 
 ---
 
-🛠 Installation & Usage
+## 🛠 Installation & Usage
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/rock-paper-scissors-cli.git
 cd rock-paper-scissors-cli
 ```
 
-2️⃣ Run the Game
+### 2️⃣ Run the Game
 
 ```bash
 python rps.py -n Victor
@@ -66,7 +65,7 @@ python rps.py --name Victor
 
 ---
 
-🎮 Game Instructions
+## 🎮 Game Instructions
 
 When prompted, enter:
 
@@ -85,7 +84,7 @@ Q to quit
 
 ---
 
-🧩 Technical Concepts Demonstrated
+## 🧩 Technical Concepts Demonstrated
 
 * Python functions as first-class objects
 * Closures
@@ -99,7 +98,7 @@ Q to quit
 
 ---
 
- 🏗 Code Structure Overview
+## 🏗 Code Structure Overview
 
 * `rps()` → Initializes state
 * `play_rps()` → Handles user interaction and game flow
@@ -108,7 +107,7 @@ Q to quit
 
 ---
 
-🔮 Possible Improvements
+## 🔮 Possible Improvements
 
 * Refactor into class-based architecture
 * Add score persistence to file
@@ -119,11 +118,10 @@ Q to quit
 
 ---
 
-👤 Author
+## 👤 Author
 
 Victor Adeniyi
 Senior Flutter Developer | AI Engineer
 
 ---
-
 
